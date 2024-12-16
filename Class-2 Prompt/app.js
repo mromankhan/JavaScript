@@ -34,6 +34,8 @@
 // document.write("your total is:" + (num1 + num2));
 
 
+
+// table printing
 let table = +prompt("which table you want");
 let count = 1;
 let total = table*count;
